@@ -1,2 +1,2 @@
 # piloting
-Personal goal managament
+Personal goal management
